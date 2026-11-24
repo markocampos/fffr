@@ -1,0 +1,6 @@
+{
+  "name": "Rhymvex Agency Office",
+  "description": "Hybrid interactive architectural floor plan and operations workspace for Rhymvex marketing and growth agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
